@@ -1,9 +1,6 @@
 #EXTM3U
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg", גל"צ
-http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
-
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Glgltz.jpg", גלגלצ
-http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
+http://glzwizzlv.bynetcdn.com/glglz_mp3
 
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-alt.png", גלגלצ - אלטרנטיבי
 http://glzwizzlv.bynetcdn.com/glglz_alt_mp3?awCollectionId=misc&awEpisodeId=glglz_alt
@@ -23,23 +20,47 @@ http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-sofshavua.png", גלגלצ - סופש רגוע
 http://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3?awCollectionId=misc&awEpisodeId=glglz_sofshavua
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png", כאן 88
-http://kanliveicy.media.kan.org.il/icy/kan88_mp3
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png", כאן ב
+http://kanliveicy.media.kan.org.il/icy/kanbet_mp3
+
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/8f/1b/8f1b270e2ed6a27fc6fa2627f37160fc.jpg", רדיו נושמים מזרחית
+https://mzr.mediacast.co.il/mzradio
+
+#EXTINF:0, logo="https://103fm.maariv.co.il/images/103_ogimage.png", 103FM - ללא הפסקה
+https://cdn.cybercdn.live/103FM/Live/icecast.audio
+
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png", רדיוס
+https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio
 
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png", לב המדינה
 http://90.cdnwz.net/90fm
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png", אקו
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/1f/c4/1fc46beb92ac6a51b828afe679d41cee.jpg", רדיו מרטיט מיתר בלב
+http://cradio.co.il:9030/;
+
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/83/09/8309a719dc7ac1f7c10703f3b7c061b6.jpg", רדיו גאולה
+http://geula-live.adpronet.com:8010/radio.mp3
+
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg", גל"צ
+https://glzwizzlv.bynetcdn.com/glz_mp3
+
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png", כאן גימל
+https://kanliveicy.media.kan.org.il/icy/749625_mp3
+
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png", כאן 88
+https://kanliveicy.media.kan.org.il/icy/749623_mp3
+
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/1f/a4/1fa4f642758bf93fc904f25ef7eb93f9.jpg", 102fm - רדיו תל אביב
+https://102.livecdn.biz/102fm_aac
+
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/c9/74/c97488f0a310ef0b6b28beb06437c41b.jpg", רדיו יאסו
+http://radio-yasoo.ath.cx:7500/;
+
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png", 99fm - אקו
 http://99.livecdn.biz/99fm
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png", רדיוס
-https://cdn.cybercdn.live/Radios_100FM/Audio/playlist.m3u8
-
-#EXTINF:0, logo="https://gold2.co.il/wp-content/uploads/2020/01/%D7%A8%D7%93%D7%99%D7%95-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91.png", 102fm - רדיו תל אביב
-http://102.livecdn.biz/102fm_aac
-
-#EXTINF:0, logo="https://103fm.maariv.co.il/images/103_ogimage.png", 103FM - ללא הפסקה
-https://cdn.cybercdn.live/103FM/Live/icecast.audio
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/84/6c/846cf1893e351db800b2f29c757510b8.jpg", הרדיו של מנחם טוקר
+http://live.toker.fm:6060/radio.mp3
 
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/galilradio_1053.png", 105.3FM - הגליל העליון
 http://1053.cdnwz.net/galil
@@ -56,8 +77,3 @@ http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png", כאן - תרבות
 http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png", כאן ב
-http://kanliveicy.media.kan.org.il/icy/kanbet_mp3
-
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png", כאן גימל
-http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3

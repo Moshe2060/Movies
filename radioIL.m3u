@@ -1,63 +1,63 @@
 #EXTM3U
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg", Galaz
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg", גל"צ
 http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Glgltz.jpg", Galgalaz
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Glgltz.jpg", גלגלצ
 http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-alt.png", Galgalaz - Alternative
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-alt.png", גלגלצ - אלטרנטיבי
 http://glzwizzlv.bynetcdn.com/glglz_alt_mp3?awCollectionId=misc&awEpisodeId=glglz_alt
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-rock.png", Galgalaz - Classic Rock
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-rock.png", גלגלצ - רוק קלאסי
 http://glzwizzlv.bynetcdn.com/glglz_rock_mp3?awCollectionId=misc&awEpisodeId=glglz_rock
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-med.png", Galgalaz - Mediterranean
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-med.png", גלגלצ - ים תיכוני
 http://glzwizzlv.bynetcdn.com/glglz_med_mp3?awCollectionId=misc&awEpisodeId=glglz_med
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-classicil.png", Galgalaz - Hebrew
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-classicil.png", גלגלצ - עברי
 http://glzwizzlv.bynetcdn.com/glglz_classicil_mp3?awCollectionId=misc&awEpisodeId=glglz_classicil
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-hits.png", Galgalaz - Hits
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-hits.png", גלגלצ - להיטים
 http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-sofshavua.png", Galgalaz - Calm Weekend
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-sofshavua.png", גלגלצ - סופש רגוע
 http://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3?awCollectionId=misc&awEpisodeId=glglz_sofshavua
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png", 88FM
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png", כאן 88
 http://kanliveicy.media.kan.org.il/icy/kan88_mp3
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png", 90FM - Middle of the Road
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png", לב המדינה
 http://90.cdnwz.net/90fm
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png", 99FM - Echo
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png", אקו
 http://99.livecdn.biz/99fm
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png", 100FM - Radius
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png", רדיוס
 https://cdn.cybercdn.live/Radios_100FM/Audio/playlist.m3u8
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/telaviv102fm.png", 102FM - Tel-Aviv
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/telaviv102fm.png", תל אביב
 http://102.livecdn.biz/102fm_aac
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/103fm.png", 103FM - Lelo Hafsaka
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/103fm.png", 103FM - ללא הפסקה
 https://cdn.cybercdn.live/103FM/Live/icecast.audio
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/galilradio_1053.png", 105.3FM - Hagalil HaElyon
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/galilradio_1053.png", 105.3FM - הגליל העליון
 http://1053.cdnwz.net/galil
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png", 107.5FM - Haifa
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png", חיפה
 http://ads11.livecdn.biz:80/radiohaifa
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/nostalgia_radio.png", Nostalgy
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/nostalgia_radio.png", נוסטלגיה
 http://194.213.4.197:8000/;
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_musika.png", Kol Hamusica
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_musika.png", כאן - קול המוסיקה
 http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png", Tarbut
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png", כאן - תרבות
 http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png", Reshet Bet
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png", כאן ב
 http://kanliveicy.media.kan.org.il/icy/kanbet_mp3
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png", Reshet Gimel
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png", רשת גימל
 http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3

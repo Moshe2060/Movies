@@ -35,7 +35,7 @@ http://99.livecdn.biz/99fm
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png", רדיוס
 https://cdn.cybercdn.live/Radios_100FM/Audio/playlist.m3u8
 
-#EXTINF:0, logo="https://gold2.co.il/wp-content/uploads/2020/01/%D7%A8%D7%93%D7%99%D7%95-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91.png", 102fm רדיו תל אביב
+#EXTINF:0, logo="https://gold2.co.il/wp-content/uploads/2020/01/%D7%A8%D7%93%D7%99%D7%95-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91.png", 102fm - רדיו תל אביב
 http://102.livecdn.biz/102fm_aac
 
 #EXTINF:0, logo="https://103fm.maariv.co.il/images/103_ogimage.png", 103FM - ללא הפסקה
@@ -44,7 +44,7 @@ https://cdn.cybercdn.live/103FM/Live/icecast.audio
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/galilradio_1053.png", 105.3FM - הגליל העליון
 http://1053.cdnwz.net/galil
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png", חיפה
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png",107.5fm - חיפה
 http://ads11.livecdn.biz:80/radiohaifa
 
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/nostalgia_radio.png", נוסטלגיה

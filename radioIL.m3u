@@ -41,14 +41,20 @@ http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3
 #EXTINF:0, logo="https://static-media.streema.com/media/cache/8f/1b/8f1b270e2ed6a27fc6fa2627f37160fc.jpg", רדיו נושמים מזרחית
 https://mzr.mediacast.co.il/mzradio
 
-#EXTINF:0, logo="https://static-media.streema.com/media/cache/1f/c4/1fc46beb92ac6a51b828afe679d41cee.jpg", רדיו מרטיט מיתר בלב
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/1f/c4/1fc46beb92ac6a51b828afe679d41cee.jpg", רדיו מזרחית החדשה
 http://cradio.co.il:9030/;
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png", לב המדינה
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png", 90fm רדיו  
 http://90.cdnwz.net/90fm
+
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/f0/fb/f0fb9478506addb3141a21baea64e010.jpg", 91fm - רדיו לב המדינה
+http://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio
 
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png", 99fm - אקו
 http://99.livecdn.biz/99fm
+
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/bc/2e/bc2e4e8e0c9671785c743c6f876d4fd8.jpg", 99.5fm - רדיו חם אש
+https://995.livecdn.biz/995fm
 
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png", רדיוס
 https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio
@@ -76,3 +82,6 @@ http://194.213.4.197:8000/;
 
 #EXTINF:0, logo="https://static-media.streema.com/media/cache/83/09/8309a719dc7ac1f7c10703f3b7c061b6.jpg", רדיו גאולה
 http://geula-live.adpronet.com:8010/radio.mp3
+
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/2c/8b/2c8b66ed31bec97f813491fbc7bad085.jpg", רדיו ספורט 5
+https://rgelive.akamaized.net/hls/live/2043150/radio5/playlistMain_Aud_.m3u8

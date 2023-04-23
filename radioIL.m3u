@@ -88,3 +88,6 @@ http://geula-live.adpronet.com:8010/radio.mp3
 
 #EXTINF:0, logo="https://static-media.streema.com/media/cache/2c/8b/2c8b66ed31bec97f813491fbc7bad085.jpg", רדיו ספורט 5
 https://rgelive.akamaized.net/hls/live/2043150/radio5/playlistMain_Aud_.m3u8
+
+#EXTINF:0, logo="https://upload.wikimedia.org/wikipedia/he/e/e4/Someonetorunwith.jpg", מישהו לרוץ איתו
+https://web.telegram.org/k/stream/%7B%22dcId%22%3A1%2C%22location%22%3A%7B%22_%22%3A%22inputDocumentFileLocation%22%2C%22id%22%3A%225012865384399766111%22%2C%22access_hash%22%3A%22-6193919121442527627%22%2C%22file_reference%22%3A%5B2%2C84%2C23%2C252%2C68%2C0%2C3%2C22%2C7%2C100%2C69%2C59%2C215%2C245%2C116%2C137%2C119%2C34%2C240%2C74%2C82%2C237%2C163%2C192%2C218%2C49%2C172%2C106%2C120%5D%7D%2C%22size%22%3A1169962707%2C%22mimeType%22%3A%22video%2Fmp4%22%2C%22fileName%22%3A%22%D7%9E%D7%99%D7%A9%D7%94%D7%95%20%D7%9C%D7%A8%D7%95%D7%A5%20%D7%90%D7%99%D7%AA%D7%95%202006.mp4%22%7D

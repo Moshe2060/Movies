@@ -38,6 +38,9 @@ http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png", כאן - תרבות
 http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3
 
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/ed/8d/ed8db197e7b53b34a3de1d81e4780248.jpg", Up2Dance
+http://144.76.159.156:8004/up2dance
+
 #EXTINF:0, logo="https://static-media.streema.com/media/cache/8f/1b/8f1b270e2ed6a27fc6fa2627f37160fc.jpg", רדיו נושמים מזרחית
 https://mzr.mediacast.co.il/mzradio
 

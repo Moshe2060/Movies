@@ -90,4 +90,4 @@ http://geula-live.adpronet.com:8010/radio.mp3
 https://rgelive.akamaized.net/hls/live/2043150/radio5/playlistMain_Aud_.m3u8
 
 #EXTINF:0, logo="https://img.mako.co.il/2021/10/28/logo-12-desktop.png", ערוץ 12
-https://mako-streaming.akamaized.net/mrouter/d9643eba-843d-48eb-b02a-019a0cb5cfb5/a2/1f85ea51-996d-4b85-a55c-ef6a68effb04/0/0/active/0/t/1682271750900/hs/mako-streaming.akamaized.net/hls/live/2033791/k12dvr/20230220T112458/index_1400/00451/index_1400_1024x576_01270.ts
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1682358147~acl=%2f*~data=hdntl~hmac=e9e08c7784f0805466d5b9d213fe6ad9bdd37bbf09c88d27843d32890cbf763b/profileManifest.m3u8?_uid=1f85ea51-996d-4b85-a55c-ef6a68effb04&rK=a2&_did=Wbb892cc0590877d9b534b87260ffc679708

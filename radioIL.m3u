@@ -88,6 +88,3 @@ http://geula-live.adpronet.com:8010/radio.mp3
 
 #EXTINF:0, logo="https://static-media.streema.com/media/cache/2c/8b/2c8b66ed31bec97f813491fbc7bad085.jpg", רדיו ספורט 5
 https://rgelive.akamaized.net/hls/live/2043150/radio5/playlistMain_Aud_.m3u8
-
-#EXTINF:0, logo="https://img.mako.co.il/2021/10/28/logo-12-desktop.png", ערוץ 12
-https://srv552439.devgurupro.online/hls/v3/2fN60lW5anRN4EYTAaAs/3566174078/q4uh1hfOnkZAvDZ7qeI17Q/1682399363/2023/4/4PREeBv1BitknrRBsyWX_720.mp4/index-v1-a1.m3u8

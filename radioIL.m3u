@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Glgltz.jpg", גלגלצ
+#EXTINF:0, logo="https://static.rlive.co.il/storage/uploads/stations/VB0yDWABE2EE2HJvuqAlB8g7xZ0vIZE0SbvBWIft.jpeg", גלגלצ
 http://glzwizzlv.bynetcdn.com/glglz_mp3
 
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-alt.png", גלגלצ - אלטרנטיבי
@@ -29,23 +29,14 @@ http://kanliveicy.media.kan.org.il/icy/kanbet_mp3
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png", כאן גימל
 https://kanliveicy.media.kan.org.il/icy/749625_mp3
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png", כאן 88
-https://kanliveicy.media.kan.org.il/icy/749623_mp3
-
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_musika.png", כאן - קול המוסיקה
 http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3
 
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png", כאן - תרבות
 http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3
 
-#EXTINF:0, logo="https://static-media.streema.com/media/cache/ed/8d/ed8db197e7b53b34a3de1d81e4780248.jpg", Up2Dance
-http://144.76.159.156:8004/up2dance
-
-#EXTINF:0, logo="https://static-media.streema.com/media/cache/8f/1b/8f1b270e2ed6a27fc6fa2627f37160fc.jpg", רדיו נושמים מזרחית
-https://mzr.mediacast.co.il/mzradio
-
-#EXTINF:0, logo="https://static-media.streema.com/media/cache/1f/c4/1fc46beb92ac6a51b828afe679d41cee.jpg", רדיו מזרחית החדשה
-http://cradio.co.il:9030/;
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png", כאן 88
+https://kanliveicy.media.kan.org.il/icy/749623_mp3
 
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png", 90FM רדיו  
 http://90.cdnwz.net/90fm
@@ -59,7 +50,7 @@ http://99.livecdn.biz/99fm
 #EXTINF:0, logo="https://static-media.streema.com/media/cache/bc/2e/bc2e4e8e0c9671785c743c6f876d4fd8.jpg", 99.5FM - רדיו חם אש
 https://995.livecdn.biz/995fm
 
-#EXTINF:0, logo="https://radio.coolsite.co.il/images/small/5.jpg", 100FM רדיוס 
+#EXTINF:0, logo="https://static.rlive.co.il/storage/uploads/stations/DEday9lGSXgz6Pkl5ZdeMcNx8vdTvpxdzyqmwyVl.jpg", 100FM רדיוס 
 https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio
 
 #EXTINF:0, logo="https://radio.coolsite.co.il/images/small/25.jpg", 101FM רדיו ירושלים 
@@ -86,6 +77,15 @@ http://1053.cdnwz.net/galil
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png",107.5FM - חיפה
 http://ads11.livecdn.biz:80/radiohaifa
 
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/ed/8d/ed8db197e7b53b34a3de1d81e4780248.jpg", Up2Dance
+http://144.76.159.156:8004/up2dance
+
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/8f/1b/8f1b270e2ed6a27fc6fa2627f37160fc.jpg", רדיו נושמים מזרחית
+https://mzr.mediacast.co.il/mzradio
+
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/1f/c4/1fc46beb92ac6a51b828afe679d41cee.jpg", רדיו מזרחית החדשה
+http://cradio.co.il:9030/;
+
 #EXTINF:0, logo="https://static-media.streema.com/media/cache/c9/74/c97488f0a310ef0b6b28beb06437c41b.jpg", רדיו יאסו
 http://radio-yasoo.ath.cx:7500/;
 
@@ -100,3 +100,6 @@ http://geula-live.adpronet.com:8010/radio.mp3
 
 #EXTINF:0, logo="https://static-media.streema.com/media/cache/2c/8b/2c8b66ed31bec97f813491fbc7bad085.jpg", רדיו ספורט 5
 https://rgelive.akamaized.net/hls/live/2043150/radio5/playlistMain_Aud_.m3u8
+
+#EXTINF:0, logo="https://static.rlive.co.il/storage/uploads/stations/wGhFP7uDexEtMvEuIqUzzbqwRFrJ33e6xxLLyVmv.png", (בהרצה) fm צחוק
+https://live.ecast.co.il/stream/69fm/lolfm

@@ -47,22 +47,25 @@ https://mzr.mediacast.co.il/mzradio
 #EXTINF:0, logo="https://static-media.streema.com/media/cache/1f/c4/1fc46beb92ac6a51b828afe679d41cee.jpg", רדיו מזרחית החדשה
 http://cradio.co.il:9030/;
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png", 90fm רדיו  
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png", 90FM רדיו  
 http://90.cdnwz.net/90fm
 
-#EXTINF:0, logo="https://static-media.streema.com/media/cache/f0/fb/f0fb9478506addb3141a21baea64e010.jpg", 91fm - רדיו לב המדינה
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/f0/fb/f0fb9478506addb3141a21baea64e010.jpg", 91FM - רדיו לב המדינה
 http://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png", 99fm - אקו
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png", 99FM - אקו
 http://99.livecdn.biz/99fm
 
-#EXTINF:0, logo="https://static-media.streema.com/media/cache/bc/2e/bc2e4e8e0c9671785c743c6f876d4fd8.jpg", 99.5fm - רדיו חם אש
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/bc/2e/bc2e4e8e0c9671785c743c6f876d4fd8.jpg", 99.5FM - רדיו חם אש
 https://995.livecdn.biz/995fm
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png", רדיוס
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100FM.png", 100FM רדיוס 
 https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio
 
-#EXTINF:0, logo="https://static-media.streema.com/media/cache/1f/a4/1fa4f642758bf93fc904f25ef7eb93f9.jpg", 102fm - רדיו תל אביב
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png", רדיוס
+
+
+#EXTINF:0, logo="https://static-media.streema.com/media/cache/1f/a4/1fa4f642758bf93fc904f25ef7eb93f9.jpg", 102FM - רדיו תל אביב
 https://102.livecdn.biz/102fm_aac
 
 #EXTINF:0, logo="https://103fm.maariv.co.il/images/103_ogimage.png", 103FM - ללא הפסקה
@@ -71,7 +74,7 @@ https://cdn.cybercdn.live/103FM/Live/icecast.audio
 #EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/galilradio_1053.png", 105.3FM - הגליל העליון
 http://1053.cdnwz.net/galil
 
-#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png",107.5fm - חיפה
+#EXTINF:0, logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png",107.5FM - חיפה
 http://ads11.livecdn.biz:80/radiohaifa
 
 #EXTINF:0, logo="https://static-media.streema.com/media/cache/c9/74/c97488f0a310ef0b6b28beb06437c41b.jpg", רדיו יאסו
